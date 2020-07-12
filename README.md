@@ -1,2 +1,2 @@
 # wyhbook
-自动化构建demo
+GitBook 自动化构建demo
